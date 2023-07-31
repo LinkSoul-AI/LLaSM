@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llasa"
+version = "1.0.0"
+description = "LLaSA: Large Language and Speech Assistant."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "numpy", "requests",
+    "librosa", "protobuf", "accelerate",
+    "tokenizers>=0.12.1",
+    "torch", "torchvision",
+    "transformers==4.31.0",
+    "sentencepiece==0.1.99",
+]
+
+[project.urls]
+"Homepage" = "https://huggingface.co/spaces/LinkSoul/LLaSA"
+"Bug Tracker" = "https://github.com/LinkSoul-AI/LLaSA/issues"
+
+[tool.setuptools.packages.find]
+exclude = ["assets*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "tests*"]
+
+[tool.wheel]
+exclude = ["assets*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "tests*"]
