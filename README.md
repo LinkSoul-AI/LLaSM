@@ -19,9 +19,13 @@
 
 ## 资源下载
 
-- 模型：
+- HuggingFace模型下载：
   - [LLaSM-Chinese-Llama-2-7B](https://huggingface.co/LinkSoul/LLaSM-Cllama2)
   - [LLaSM-Baichuan-7B](https://huggingface.co/LinkSoul/LLaSM-Baichuan)
+
+- 百度网盘下载:
+  - [LLaSM-Chinese-Llama-2-7B](https://pan.baidu.com/s/1PaipNDfqV7f3W1-tl5rwzA?pwd=2549)
+  - [LLaSM-Baichuan-7B](https://pan.baidu.com/s/1QZrXA8IJXclN77T4jM7tEw?pwd=y2p7)
 
 - 语言模型:
   - [Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
