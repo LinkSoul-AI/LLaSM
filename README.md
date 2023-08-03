@@ -8,6 +8,10 @@
     <img src=".github/preview.jpg" width="40%">
 </p>
 
+## 模型框架
+
+![Framework](.github/framework.png)
+
 ## 基础演示
 
 ![Base Demo](.github/demo.gif)
