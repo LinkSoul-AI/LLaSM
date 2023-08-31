@@ -23,7 +23,6 @@
 
 ## 论文
 - arXiv 链接：https://arxiv.org/abs/2308.15930
-- ![Framework](.github/abstract.png)
 
 ## 资源下载
 
