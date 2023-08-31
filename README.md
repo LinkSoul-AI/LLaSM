@@ -1,6 +1,6 @@
 # LLaSM: Large Language and Speech Model
 
-[![](https://img.shields.io/badge/LLaSM-Chinese-blue)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/Commercial-Support-blue)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/License-Apache_v2-blue)](https://github.com/LinkSoul-AI/LLaSM/blob/main/LICENSE) [![](https://img.shields.io/badge/HuggingFace-Live_Demo-green)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/Datasets-LLaSM_Audio_Instructions-blue)](https://huggingface.co/datasets/LinkSoul/LLaSM-Audio-Instructions)
+[![](https://img.shields.io/badge/LLaSM-Chinese-blue)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/Commercial-Support-blue)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/License-Apache_v2-blue)](https://github.com/LinkSoul-AI/LLaSM/blob/main/LICENSE) [![](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2308.15930) [![](https://img.shields.io/badge/HuggingFace-Live_Demo-green)](https://huggingface.co/spaces/LinkSoul/LLaSM) [![](https://img.shields.io/badge/Datasets-LLaSM_Audio_Instructions-yellow)](https://huggingface.co/datasets/LinkSoul/LLaSM-Audio-Instructions)
 
 开源，可商用的**中英文双语语音-语言助手 LLaSM 以及中英文语音 SFT 数据集 LLaSM-Audio-Instructions**，第一个支持中英文语音-文本多模态对话的开源可商用对话模型。
 
@@ -20,6 +20,10 @@
 
 > Talk is cheap, Show you the Demo.
 - [Demo 地址 / HuggingFace Spaces](https://huggingface.co/spaces/LinkSoul/LLaSM) 
+
+## 论文
+- arXiv 链接：https://arxiv.org/abs/2308.15930
+- ![Framework](.github/abstract.png)
 
 ## 资源下载
 
@@ -75,6 +79,20 @@ python infer.py \
 ## 项目协议
 
 [Apache-2.0 license](https://github.com/LinkSoul-AI/LLaSM/blob/main/LICENSE)
+
+## Citation
+
+如果您发现我们的工作和此仓库有用，欢迎给一个星星 :star: 鼓励我们一下 :beer::
+```bibtex
+@misc{shu2023llasm,
+      title={LLaSM: Large Language and Speech Model}, 
+      author={Yu Shu and Siwei Dong and Guangyao Chen and Wenhao Huang and Ruihua Zhang and Daochen Shi and Qiqi Xiang and Yemin Shi},
+      year={2023},
+      eprint={2308.15930},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ## 微信交流群
 
