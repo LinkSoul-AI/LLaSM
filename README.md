@@ -19,14 +19,14 @@
 ## 在线试玩
 
 > Talk is cheap, Show you the Demo.
-- [Demo 地址 / HuggingFace Spaces](https://huggingface.co/spaces/LinkSoul/LLaSM) 
+- [Demo 地址 / Hugging Face Spaces](https://huggingface.co/spaces/LinkSoul/LLaSM) 
 
 ## 论文
 - arXiv 链接：https://arxiv.org/abs/2308.15930
 
 ## 资源下载
 
-- HuggingFace模型下载：
+- Hugging Face模型下载：
   - [LLaSM-Chinese-Llama-2-7B](https://huggingface.co/LinkSoul/LLaSM-Cllama2)
   - [LLaSM-Baichuan-7B](https://huggingface.co/LinkSoul/LLaSM-Baichuan)
 
