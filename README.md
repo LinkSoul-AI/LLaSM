@@ -54,6 +54,7 @@ pip install -e .
 ```
 
 ## 快速测试
+- 下载 Whisper large v2 模型：https://huggingface.co/openai/whisper-large-v2
 
 ```shell
 export LLASM_DEVICE="cuda:0"
